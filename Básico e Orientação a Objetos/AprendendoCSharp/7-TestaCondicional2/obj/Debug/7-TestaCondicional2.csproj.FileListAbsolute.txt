@@ -1,0 +1,7 @@
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\bin\Debug\7-TestaCondicional2.exe.config
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\bin\Debug\7-TestaCondicional2.exe
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\bin\Debug\7-TestaCondicional2.pdb
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\obj\Debug\7-TestaCondicional2.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\obj\Debug\7-TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\obj\Debug\7-TestaCondicional2.exe
+C:\Users\carlo\source\repos\AprendendoCSharp\7-TestaCondicional2\obj\Debug\7-TestaCondicional2.pdb
